@@ -4,7 +4,8 @@ Public challenge: Becoming a world-class AI Engineer in 365 days with only 1–2
 
 **Start date:** January 1, 2026  
 **End date:** December 31, 2026  
-**Daily rules:**  
+**Daily rules:**
+
 - Max 2h (usually 1h)  
 - Daily GitHub commit (even if it's 10 lines)  
 - Daily X thread with lesson + code link  
